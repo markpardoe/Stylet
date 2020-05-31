@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Stylet" Version="0.0.0" />
+    <ProjectReference Include="..\..\..\Stylet\Stylet.csproj" />
   </ItemGroup>
 
 </Project>
